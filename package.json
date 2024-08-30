@@ -1,6 +1,6 @@
 {
   "name": "@daugtcms/tailwind-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "tailwind.config.js",
   "scripts": {
@@ -15,6 +15,7 @@
   },
   "homepage": "https://github.com/daugtcms/tailwind-config#readme",
   "dependencies": {
+    "tailwindcss": "^3.4",
     "@tailwindcss/forms": "^0.5.8",
     "@tailwindcss/typography": "^0.5.15"
   }
